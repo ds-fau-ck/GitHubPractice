@@ -6,3 +6,5 @@
 """
 git checkout dev1
 """
+## Merge braanch
+""" git merge dev1 """
